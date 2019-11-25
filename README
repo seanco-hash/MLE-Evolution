@@ -1,15 +1,13 @@
 seanco
 
 ------------------------------------------------------------------------------
-				Algorithms in Computational Biology - Ex3 README 
+				Algorithms in Computational Biology - MLE README 
 ------------------------------------------------------------------------------
 This project includes the files as follows:
 
 MLE.py - for the programming questions 1.2, 1.3
 
 trees.py - for the programming question 3
-
-ex3_theoretical - pdf file of the answers to the theoretical questions.
 
 Notes: 
 In order to run questions 1.2, 1.3 with other t and n parameters, There are T and N sets 
